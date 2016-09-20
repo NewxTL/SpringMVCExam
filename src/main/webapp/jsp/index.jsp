@@ -5,6 +5,15 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>极客影院首页</title>
+<link rel="stylesheet" type="text/css" href="background.css">
+<style type="text/css">
+<style type="text/css">
+body {
+	color: #000;
+	font-size: 30px;
+	margin: 20px auto;
+}
+</style>
 
 </head>
 <body>		

@@ -7,7 +7,15 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>显示界面</title>
-
+<link rel="stylesheet" type="text/css" href="background.css">
+<style type="text/css">
+<style type="text/css">
+body {
+	color: #000;
+	font-size: 30px;
+	margin: 20px auto;
+}
+</style>
 </head>
 <body>
 	<table border="1" cellspacing="0" cellpadding="5" bordercolor="silver"
