@@ -19,6 +19,9 @@ public class Customer extends IDEntity {
 		  this.address_id = address_id;
 		  this.create_date = create_date;
 	}
+	public Customer() {
+		// TODO Auto-generated constructor stub
+	}
 	public int getCustomer_id() {
 		return customer_id;
 	}
